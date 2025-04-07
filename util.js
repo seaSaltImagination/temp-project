@@ -4,3 +4,4 @@ function sum(a, b) {
 function subOne(a) {
   return --a;
 }
+console.log(subOne(1))
