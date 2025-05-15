@@ -8,4 +8,4 @@ function addOne(n) {
     return ++tempNumber;
   }
 }
-console.log(addOne('12313'))
+console.log(addOne('12313sdas'))
