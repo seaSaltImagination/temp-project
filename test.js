@@ -10,3 +10,4 @@ function addOne(n) {
 }
 console.log(addOne('12313'))
 console.log('我也改一下')
+console.log(addOne('12313sdas'))
